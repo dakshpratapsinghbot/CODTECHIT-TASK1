@@ -37,4 +37,5 @@ Modularity: The project demonstrates how small, modular functions (like calculat
 This project serves as a foundational example of how to combine Python's programming capabilities with a GUI framework to create interactive applications.
 
 
-![Screenshot 2024-08-13 001238](https://github.com/user-attachments/assets/183d4687-da0d-4fc4-b700-dde5088815c2)
+
+![Screenshot 2024-08-13 002104](https://github.com/user-attachments/assets/250d34ba-7438-49da-a7ec-f918d3ad01f5)
